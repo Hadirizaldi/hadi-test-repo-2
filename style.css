@@ -1,0 +1,10 @@
+body {
+    font-family: arial;
+}
+
+tr.judul_kolom{
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    background-color: crimson;
+    color: blanchedalmond;
+}
